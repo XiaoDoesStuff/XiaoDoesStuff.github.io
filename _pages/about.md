@@ -1,6 +1,8 @@
 ---
+title: "About Me"
 permalink: /about/
-layout: single
+layout: splash
 ---
 
-Hiii
+Hiii,
+I am Xiao, aka XiaoDoesStuff
