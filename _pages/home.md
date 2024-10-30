@@ -8,7 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
-      - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fas fa-download'></i> Install now"
       url: "/search/"
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
