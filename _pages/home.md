@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: splash
 permalink: /
 hidden: true
 header:
