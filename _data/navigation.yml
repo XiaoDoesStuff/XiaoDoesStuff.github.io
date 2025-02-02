@@ -6,6 +6,8 @@ main:
     url: https://xiaodoesstuff.github.io//about/
   - title: "Search"
     url: https://xiaodoesstuff.github.io/search/
+  - title: "Current Listings"
+    url: https://xiaodoesstuff.github.io/listings/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
