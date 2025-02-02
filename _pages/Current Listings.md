@@ -7,6 +7,7 @@ layout: splash
 Currently listed items on eBay:
 
 $50 + free shipping 
+
 <a href="https://www.ebay.com/itm/235929093497">5 Super Nintendo SNES Videogame Lot Tested</a>
 
 $150 + paid shipping
