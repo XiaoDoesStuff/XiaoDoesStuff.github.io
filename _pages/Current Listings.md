@@ -1,13 +1,14 @@
 ---
 title: "Current Listings"
-permalink: /Listings/
+permalink: /listings/
 layout: splash
 ---
 
 Currently listed items on eBay:
 
 $50 + free shipping 
-5 Super Nintendo SNES Videogame Lot Tested https://www.ebay.com/itm/235929093497
+-title: 5 Super Nintendo SNES Videogame Lot Tested 
+-url: https://www.ebay.com/itm/235929093497
 Games:
 D-Force
 Ms. pac-man
