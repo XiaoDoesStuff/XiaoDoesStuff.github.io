@@ -11,5 +11,5 @@ $50 + free shipping <br><br>
 $150 + paid shipping <br><br>
 <a href="https://www.ebay.com/itm/235938183128">Nintendo Entertainment System NES Console only - Gray (NES-001) Repaired</a> <br>
 $60 + paid shipping <br><br>
-<a href=" https://www.ebay.com/itm/235936887296">Playstation 1 Bundle PSone Console with softmod, Controller, and Cables</a> <br>
+<a href="https://www.ebay.com/itm/235936887296">Playstation 1 Bundle PSone Console with softmod, Controller, and Cables</a> <br>
 $65 + paid shipping <br><br>
